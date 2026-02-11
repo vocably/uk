@@ -1,0 +1,4 @@
+damp
+humid
+moist
+wet

@@ -1,0 +1,4 @@
+earthquake
+quake
+temblor
+seism

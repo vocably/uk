@@ -1,0 +1,5 @@
+dampness
+humidity
+moisture
+crudeness
+rawness
