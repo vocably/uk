@@ -1,0 +1,5 @@
+passar
+prestar
+alugar
+dar
+devolver
