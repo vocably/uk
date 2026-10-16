@@ -1,0 +1,3 @@
+grubbing
+stump-grubbing
+root-like
